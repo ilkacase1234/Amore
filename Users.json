@@ -13,35 +13,5 @@
   "balance":0,
   "received":0,
   "paid":0
- },
- {
-  "id":"y)(e4?_\"?1rr*$RQ0aZ9Kd!owl\"<TpO[1\\Z`NWm}",
-  "name":"fatah nour",
-  "image":"images/image.png",
-  "password":"111111",
-  "email":"abdifatahnour048@gmail.com",
-  "token":"",
-  "mobile":"906728430",
-  "role":"user",
-  "about":"hi i am fatah nour welcome to my profile ",
-  "age":61.21834360027378,
-  "balance":0,
-  "received":0,
-  "paid":0
- },
- {
-  "id":"y)(e4?_\"?1rr*$RQ0aZ9Kd!owl\"<TpO[1\\Z`NWm}",
-  "name":"fatah nour",
-  "image":"images/image.png",
-  "password":"111111",
-  "email":"abdifatahnour044@gmail.com",
-  "token":"",
-  "mobile":"906728430",
-  "role":"user",
-  "about":"hi i am fatah nour welcome to my profile ",
-  "age":61.21834360027378,
-  "balance":0,
-  "received":0,
-  "paid":0
  }
 ]
